@@ -4,10 +4,10 @@
 <h1>Technical Skills:</h1>
 <h3>Langs: </h3>
 <a href="https://www.php.net/docs.php" target="_blank">
-  <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="50" height="50">
+  <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="60" height="60">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60">
 </a>
 <!--
 **Abdallah-Medhat75/Abdallah-Medhat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
