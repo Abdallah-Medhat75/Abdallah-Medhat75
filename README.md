@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://sqlite.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" height="60">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="60" height="60">
 </a>
 
 <h3>Frameworks: </h3>
