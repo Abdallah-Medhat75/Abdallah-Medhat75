@@ -2,7 +2,7 @@
 <p>I am a PHP-Laravel Back-end developer from egypt</p>
 
 <h1>Technical Skills:</h1>
-<h5>Langs: </h5>
+<h3>Langs: </h3>
 <a href="https://www.php.net/docs.php" target="_blank">
   <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="50" height="50">
 </a>
