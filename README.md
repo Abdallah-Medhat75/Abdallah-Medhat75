@@ -26,7 +26,7 @@
 
 <h3>Local Development Environment: </h3>
 <a href="https://laragon.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="80" height="80">
+  <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="60" height="60">
 </a>
 <!--
 **Abdallah-Medhat75/Abdallah-Medhat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
