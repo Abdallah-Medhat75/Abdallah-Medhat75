@@ -12,7 +12,7 @@
 
 <h3>Databases: </h3>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="60" height="60">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60" height="60">
 </a>
 
 <h3>Frameworks: </h3>
