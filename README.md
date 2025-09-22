@@ -15,6 +15,10 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60" height="60">
 </a>
 
+<a href="https://sqlite.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="60" height="60">
+</a>
+
 <h3>Frameworks: </h3>
 <a href="https://laravel.com" target="_blank">
   <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="80" height="80">
