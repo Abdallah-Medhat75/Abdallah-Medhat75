@@ -4,7 +4,7 @@
 <h1>Technical Skills:</h1>
 <h5>Langs: </h5>
 <a href="https://www.php.net/docs.php" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="50" height="50">
+  <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="50" height="50">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50">
