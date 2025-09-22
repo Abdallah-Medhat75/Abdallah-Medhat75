@@ -1,5 +1,5 @@
 <h1>Info:</h1>
-<p>I am a PHP-Laravel Back-end developer from egypt</p>
+<p>I am a PHP-Laravel Back-end developer from Egypt</p>
 
 <h1>Technical Skills:</h1>
 <h3>Langs: </h3>
