@@ -9,6 +9,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60">
 </a>
+<h3>Frameworks: </h3>
+<a href="https://laravel.com" target="_blank">
+  <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="60" height="60">
+</a>
 <!--
 **Abdallah-Medhat75/Abdallah-Medhat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
