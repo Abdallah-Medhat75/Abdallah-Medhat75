@@ -23,6 +23,11 @@
 <a href="https://laravel.com" target="_blank">
   <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="80" height="80">
 </a>
+
+<h3>Local Development Environment: </h3>
+<a href="https://laragon.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="80" height="80">
+</a>
 <!--
 **Abdallah-Medhat75/Abdallah-Medhat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
