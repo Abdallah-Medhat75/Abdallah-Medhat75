@@ -31,7 +31,7 @@
 
 <h3>API Client: </h3>
 <a href="https://httpie.io/download" target="_blank">
-  <img src="https://images.seeklogo.com/logo-png/43/1/httpie-logo-png_seeklogo-431106.png" width="60" height="60">
+  <img src="https://cdn.brandfetch.io/idLpDLO7HO/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="60" height="60">
 </a>
 <!--
 **Abdallah-Medhat75/Abdallah-Medhat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
